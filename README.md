@@ -63,6 +63,12 @@ https://github.com/user-attachments/assets/d277dcee-fd45-4726-96e3-6c43e534381c
  キーボードの”p”を押すと、VOICEBOXのずんだもんが「最初はグー、じゃんけんぽん」といいます。
  
  そして、マインクラフトでじゃんけんができます。
+
+# 実演動画
+
+
+ https://github.com/user-attachments/assets/69ef4102-5e36-429a-9614-41fde9cd79bb 
+
    
 # 画像認識の仕組み
 　<img width="500" alt="image" src="https://github.com/vichyalpha/Mincraft-Rock-Paper-Scissors-Mediapipe-Hands-demo/blob/main/image/%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%83%E3%83%88%20(21).png">
