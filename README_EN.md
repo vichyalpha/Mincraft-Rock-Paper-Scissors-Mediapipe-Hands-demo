@@ -63,7 +63,11 @@ Run hands_mincraft.py !
  Press “p” on the keyboard, and Zundamon of VOICEBOX will say “Goo first, then Jankenpon”.
  
  Then you can play rock-paper-scissors in Minecraft.
-   
+
+# Demonstration video
+
+ https://github.com/user-attachments/assets/b87a3d00-aaa2-4d5d-9cd9-c768c5b6db94 
+  
 # How Image Recognition Works
 　<img width=“500” alt=“image” src="https://github.com/vichyalpha/Mincraft-Rock-Paper-Scissors-Mediapipe-Hands-demo/blob/main/image/%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%83%E3%83%88%20(21).png">
  
