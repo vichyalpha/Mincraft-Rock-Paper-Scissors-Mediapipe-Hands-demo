@@ -70,7 +70,7 @@ Calculate the distance between each point and determine the shape of the hand.
 # Examples of possible applications
 　Rock-paper-scissors with two players
  
- 　 It is possible because mediapipe can recognize up to two hands. However, it cannot detect the singularity of fingers between two hands, so it is necessary to devise a new method.
+ 　  Possible because mediapipe can recognize up to two or more moves. However, it is difficult because it is impossible to identify whose move it is.
    
 　Sign language expression
  
