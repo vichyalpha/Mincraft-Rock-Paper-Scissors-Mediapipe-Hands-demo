@@ -51,6 +51,10 @@ English READMEはこちら
 ===>完了！
 
 # じゃんけんのやり方
+
+
+ https://github.com/user-attachments/assets/6d48576d-c468-462e-a53f-00e0ce69bf3b 
+
 　じゃんけんのフィールドはx=0、z＝0に生成されます。
  
  マインクラフトのスーパーフラットでワールドを生成し、hands_mincraft.pyを実行します。（実行には数秒かかることがあります。）
