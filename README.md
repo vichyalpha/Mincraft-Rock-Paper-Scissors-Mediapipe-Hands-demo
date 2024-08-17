@@ -30,6 +30,8 @@ English READMEはこちら
 
 # じゃんけんをするための準備
 
+https://github.com/user-attachments/assets/d277dcee-fd45-4726-96e3-6c43e534381c
+
 1. Forge 1.16.5をインストール
 　　　https://files.minecraftforge.net/net/minecraftforge/forge/index_1.16.5.html
 
@@ -51,9 +53,6 @@ English READMEはこちら
 ===>完了！
 
 # じゃんけんのやり方
-
-
- https://github.com/user-attachments/assets/6d48576d-c468-462e-a53f-00e0ce69bf3b 
 
 　じゃんけんのフィールドはx=0、z＝0に生成されます。
  
