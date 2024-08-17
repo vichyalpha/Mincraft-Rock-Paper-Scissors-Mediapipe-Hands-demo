@@ -3,7 +3,7 @@
 Japanese README
 
 English READMEはこちら
-[README_ENGLISH]
+[README_ENGLISH](https://github.com/vichyalpha/Mincraft-Rock-Paper-Scissors-Mediapipe-Hands-demo/blob/main/README_EN.md)
 
 このAPIはmincraftでじゃんけんをすることができます。
 
