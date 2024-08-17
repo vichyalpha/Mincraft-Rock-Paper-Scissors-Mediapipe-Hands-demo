@@ -6,8 +6,13 @@ English READMEはこちら
 [README_ENGLISH]
 
 このAPIはmincraftでじゃんけんをすることができます。
+
 じゃんけんを画像認識するためにmediapipeを使用し、Webカメラなどからの情報をもとに仮想のAIとじゃんけんをすることができます。
+
 また音声として、VOICEBOXを使用しています。
+
+
+
 ※このAPIはNaohiro2g様のminecraft_remoteを使用しています。
 
 　mediapipe(google提供)　https://mediapipe-studio.webapps.google.com/home
@@ -18,7 +23,9 @@ English READMEはこちら
  
 　mincraft_remote https://github.com/Naohiro2g/minecraft_remote 
  
-<img width="435" alt="image" src="https://github.com/vichyalpha/Mincraft-Rock-Paper-Scissors-Mediapipe-Hands-demo/blob/main/image/image(1).png">
+<img width="1300" alt="image" src="https://github.com/vichyalpha/Mincraft-Rock-Paper-Scissors-Mediapipe-Hands-demo/blob/main/image/image(1).png">
+<img width="1300" alt="image" src="https://github.com/vichyalpha/Mincraft-Rock-Paper-Scissors-Mediapipe-Hands-demo/blob/main/image/image(2).png">
+<img width="1300" alt="image" src="https://github.com/vichyalpha/Mincraft-Rock-Paper-Scissors-Mediapipe-Hands-demo/blob/main/image/image.png">
 
 # じゃんけんをするための準備
 
@@ -40,17 +47,21 @@ English READMEはこちら
 
 ![Python-logo-notext svg (1)](https://github.com/vichyalpha/Maze-Generation_vichy_f/assets/107329825/ae62b1b0-3ac0-458c-b5bc-93e8705a64d5)
 
-
 ===>完了！
 
 # じゃんけんのやり方
 　じゃんけんのフィールドはx=0、z＝0に生成されます。
+ 
  マインクラフトのスーパーフラットでワールドを生成し、hands_mincraft.pyを実行します。（実行には数秒かかることがあります。）
+ 
  webカメラに手を近づけ、じゃんけんの手（グー、チョキ、パー）にします。
+ 
  キーボードの”p”を押すと、VOICEBOXのずんだもんが「最初はグー、じゃんけんぽん」といいます。
+ 
  そして、マインクラフトでじゃんけんができます。
    
-　<img width="435" alt="スクリーンショット 2024-03-02 204348" src="https://github.com/vichyalpha/Maze-Generation_vichy_f/assets/107329825/f98274d1-e257-47a2-bf9b-6c349bfa00e3">
+# 画像認識の仕組み
+　
 
 # 開発環境
 
