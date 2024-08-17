@@ -29,6 +29,8 @@ English READMEはこちら
 <img width="500" alt="image" src="https://github.com/vichyalpha/Mincraft-Rock-Paper-Scissors-Mediapipe-Hands-demo/blob/main/image/%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%83%E3%83%88%20(21).png">
 # じゃんけんをするための準備
 
+https://github.com/user-attachments/assets/d277dcee-fd45-4726-96e3-6c43e534381c
+
 1. Forge 1.16.5をインストール
 　　　https://files.minecraftforge.net/net/minecraftforge/forge/index_1.16.5.html
 
@@ -50,6 +52,7 @@ English READMEはこちら
 ===>完了！
 
 # じゃんけんのやり方
+
 　じゃんけんのフィールドはx=0、z＝0に生成されます。
  
  マインクラフトのスーパーフラットでワールドを生成し、hands_mincraft.pyを実行します。（実行には数秒かかることがあります。）
