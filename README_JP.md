@@ -62,14 +62,20 @@ English READMEはこちら
    
 # 画像認識の仕組み
 　<img width="500" alt="image" src="https://github.com/vichyalpha/Mincraft-Rock-Paper-Scissors-Mediapipe-Hands-demo/blob/main/image/%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%83%E3%83%88%20(21).png">
+ 
 mediapipeのhands_demoを用いて、指の特異点20個を検出する。
+
 各点の距離を計算し、手の形を判定する。
 
 # 応用できる例
 　・２人でのじゃんけん
+ 
  　 mediapipeは2つの手まで認識できるので可能。しかし、２つの手同士の指の特異点が判別できないので工夫が必要
+   
 　・手話を表現
+ 
  　手の特異点の変化で作ることは可能。しかし、大量に特異点の組み合わせを作る必要があり、誤認も多い可能性がある。
+  
 
 
 # 開発環境
