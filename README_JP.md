@@ -12,13 +12,13 @@ English READMEはこちら
 
 　mediapipe(google提供)　https://mediapipe-studio.webapps.google.com/home
 
-  VOICEBOX様　https://voicevox.hiroshiba.jp
+　VOICEBOX様　https://voicevox.hiroshiba.jp
 
 　Naohiro2g様　https://github.com/Naohiro2g
  
 　mincraft_remote https://github.com/Naohiro2g/minecraft_remote 
  
-<img width="435" alt="スクリーンショット 2024-03-02 204348" src="https://github.com/vichyalpha/Maze-Generation_vichy_f/assets/107329825/bcd89e79-4446-4b0d-82d8-9856f8ac544a">
+<img width="435" alt="image" src="https://github.com/vichyalpha/Mincraft-Rock-Paper-Scissors-Mediapipe-Hands-demo/blob/main/image/image(1).png">
 
 # じゃんけんをするための準備
 
