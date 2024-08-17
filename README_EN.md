@@ -50,6 +50,9 @@ Run hands_mincraft.py !
 ====> Done!
 
 # How to do janken
+
+ https://github.com/user-attachments/assets/6aed1a76-19cc-4a6f-ab50-4d479d8c9e4e 
+
 　Janken fields are generated at x=0 and z=0.
  
  Generate the world in minecraft super flat and run hands_mincraft.py. (It may take a few seconds to run.)
