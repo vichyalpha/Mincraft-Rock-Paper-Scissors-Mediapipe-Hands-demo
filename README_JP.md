@@ -70,6 +70,10 @@ mediapipeのhands_demoを用いて、指の特異点20個を検出する。
 
 各点の距離を計算し、手の形を判定する。
 
+# 実演動画
+
+ https://github.com/user-attachments/assets/8a6877cb-d3a4-439c-9835-b46bc3e52b73 
+
 # 応用できる例
 　・２人でのじゃんけん
  
