@@ -27,6 +27,7 @@ English READMEはこちら
 <img width="1300" alt="image" src="https://github.com/vichyalpha/Mincraft-Rock-Paper-Scissors-Mediapipe-Hands-demo/blob/main/image/image(2).png">
 <img width="1300" alt="image" src="https://github.com/vichyalpha/Mincraft-Rock-Paper-Scissors-Mediapipe-Hands-demo/blob/main/image/image.png">
 <img width="500" alt="image" src="https://github.com/vichyalpha/Mincraft-Rock-Paper-Scissors-Mediapipe-Hands-demo/blob/main/image/%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%83%E3%83%88%20(21).png">
+
 # じゃんけんをするための準備
 
 https://github.com/user-attachments/assets/d277dcee-fd45-4726-96e3-6c43e534381c
